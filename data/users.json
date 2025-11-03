@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Admin User",
+    "email": "admin@teste.com",
+    "password": "admin123",
+    "profile": "admin",
+    "active": true
+  },
+  {
+    "id": "2",
+    "name": "João Silva",
+    "email": "joao@teste.com",
+    "password": "123456",
+    "profile": "user",
+    "active": true
+  },
+  {
+    "id": "3",
+    "name": "Maria Santos",
+    "email": "maria@teste.com",
+    "password": "123456",
+    "profile": "user",
+    "active": true
+  },
+  {
+    "id": "4",
+    "name": "Pedro Oliveira",
+    "email": "pedro@teste.com",
+    "password": "123456",
+    "profile": "user",
+    "active": false
+  }
+]
